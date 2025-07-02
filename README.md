@@ -8,16 +8,16 @@ This codebase is the official PyTorch implementation of our paper:
 ## Citation
 ```bash
 @ARTICLE{10852410,
-	author={Huang, Siquan and Li, Yijiang and Yan, Xingfu and Gao, Ying and Chen, Chong and Shi, Leyu and Chen, Biao and Ng, Wing W.Y.},
-	journal={IEEE Transactions on Information Forensics and Security}, 
-	title={Scope: On Detecting Constrained Backdoor Attacks in Federated Learning}, 
-	year={2025},
-	volume={},
-	number={},
-	pages={1-1},
-	keywords={Data models;Adaptation models;Servers;Measurement;Training;Federated learning;Prevention and mitigation;Euclidean distance;Computational modeling;Image edge detection;Federated learning;Backdoor attack;Malicious clients;Backdoor detection;Clustering method},
-	doi={10.1109/TIFS.2025.3533899}
-}
+  author={Huang, Siquan and Li, Yijiang and Yan, Xingfu and Gao, Ying and Chen, Chong and Shi, Leyu and Chen, Biao and Ng, Wing W. Y.},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Scope: On Detecting Constrained Backdoor Attacks in Federated Learning}, 
+  year={2025},
+  volume={20},
+  number={},
+  pages={3302-3315},
+  keywords={Data models;Adaptation models;Servers;Measurement;Training;Federated learning;Prevention and mitigation;Euclidean distance;Computational modeling;Image edge detection;Federated learning;backdoor attack;malicious clients;backdoor detection;clustering method},
+  doi={10.1109/TIFS.2025.3533899}}
+
 ```
 
 ## Data preparation
